@@ -1,0 +1,9 @@
+USERS:
+kevin@nbcc.ca
+Password: admin
+user type : admin
+---------------
+
+rafael@nbcc.ca
+Password: user
+user type : user
